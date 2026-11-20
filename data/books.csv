@@ -1,0 +1,6 @@
+BookID,Title,Author,PublicationYear,Available
+101,Introduction to Algorithms,Thomas H. Cormen,2022,1
+102,Clean Code,Robert C. Martin,2008,1
+103,The Pragmatic Programmer,Andrew Hunt,2019,0
+104,Design Patterns,Erich Gamma,1994,1
+105,"Algorithms, 4th Edition",Robert Sedgewick,2011,1
