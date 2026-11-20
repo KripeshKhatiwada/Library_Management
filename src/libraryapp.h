@@ -1,7 +1,7 @@
 #ifndef LIBRARYAPP_H
 #define LIBRARYAPP_H
 
-#include "ChainedHashTable.h"
+#include "chainedhashtable.h"
 #include <string>
 
 class LibraryApp {

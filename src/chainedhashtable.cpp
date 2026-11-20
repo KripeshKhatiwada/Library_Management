@@ -1,4 +1,4 @@
-#include "ChainedHashTable.h"
+#include "chainedhashtable.h"
 #include <iomanip>
 #include <iostream>
 #include <string>

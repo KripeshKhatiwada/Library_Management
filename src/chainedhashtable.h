@@ -1,7 +1,7 @@
 #ifndef CHAINEDHASHTABLE_H
 #define CHAINEDHASHTABLE_H
 
-#include "HashNode.h"
+#include "hashnode.h"
 #include <cstddef>
 #include <functional>
 
